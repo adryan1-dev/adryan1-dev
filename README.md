@@ -226,20 +226,21 @@ Future Project
 
 # 📈 Minha evolução
 
+```mermaid
+flowchart TD
 
+A[🧠 Fundamentos de Programação] --> B[🌐 Desenvolvimento Web]
 
-Frontend Development
-↓
-Programming Fundamentals
-↓
-Python & Automation
-↓
-SQL & Databases
-↓
-Data Engineering
-↓
-Cloud & AI Data Platforms
+B --> C[🐍 Python & Automação]
 
+C --> D[🗄️ SQL & Bancos de Dados]
+
+D --> E[⚙️ Engenharia de Dados]
+
+E --> F[☁️ Cloud Data Platforms]
+
+F --> G[🤖 AI Engineering & Intelligent Data Systems]
+```
 
 
 ---
