@@ -3,40 +3,45 @@
 </h1>
 
 <h3 align="center">
-  Data Engineering Student | Python • SQL • Pipelines • Cloud • AI
+  Data Engineering Student | Python • SQL • Data Pipelines • AI
 </h3>
 
 <p align="center">
-  Construindo soluções de dados através de projetos práticos, automação e engenharia de software.
+  Construindo soluções de dados através de projetos práticos, automação e boas práticas de engenharia.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adryan1-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://github.com/adryan1-dev">
+    <img src="https://img.shields.io/github/followers/adryan1-dev?style=for-the-badge&logo=github&color=181717"/>
   </a>
-  <a href="mailto:adryan1.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail" />
+  
+  <a href="https://linkedin.com/in/adryan1-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:adryanpinto94@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, direcionando minha carreira para **Engenharia de Dados**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** direcionando minha carreira para **Engenharia de Dados**.
 
-Minha jornada começou pelo desenvolvimento e automação, evoluindo para a construção de pipelines capazes de transformar dados brutos em informações úteis para tomada de decisão.
+Minha trajetória começou com desenvolvimento e automação, evoluindo para a construção de pipelines capazes de transformar dados brutos em informações organizadas e úteis para tomada de decisão.
 
 Atualmente estudo e desenvolvo projetos envolvendo:
 
 - 🐍 Python para engenharia e automação de dados
 - 🗄️ SQL e modelagem de dados
-- 🔄 ETL/ELT Pipelines
-- ⚙️ Apache Airflow para orquestração
-- 🐳 Docker para ambientes reproduzíveis
-- 🐘 PostgreSQL como banco analítico
-- ☁️ Conceitos de Cloud Data Engineering
+- 🔄 Construção de pipelines ETL/ELT
+- ⚙️ Orquestração com Apache Airflow
+- 🐳 Ambientes reproduzíveis com Docker
+- 🐘 PostgreSQL e bancos relacionais
+- ☁️ Conceitos de arquitetura moderna de dados
 - 🤖 Inteligência Artificial aplicada ao desenvolvimento
 
 
@@ -51,27 +56,32 @@ Atualmente estudo e desenvolvo projetos envolvendo:
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-Data%20Pipeline-yellow?style=for-the-badge&logo=python"/>
+
 <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Airflow-Orchestration-red?style=for-the-badge&logo=apacheairflow"/>
-<img src="https://img.shields.io/badge/Docker-Environment-blue?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/Apache%20Airflow-Orchestration-017CEE?style=for-the-badge&logo=apacheairflow"/>
+
+<img src="https://img.shields.io/badge/Docker-Environment-2496ED?style=for-the-badge&logo=docker"/>
 
 </p>
 
-### O que estou construindo:
+
+### O que estou desenvolvendo:
 
 ✅ Ingestão de dados através de APIs REST  
-✅ Processamento e transformação com Python  
+✅ Processamento e transformação utilizando Python  
+✅ Tratamento e validação de dados  
 ✅ Modelagem dimensional (Fato e Dimensão)  
 ✅ Arquitetura Medalhão (Bronze / Silver / Gold)  
 ✅ Persistência em PostgreSQL  
-✅ Orquestração utilizando Airflow  
-✅ Ambiente containerizado com Docker  
-✅ Organização seguindo boas práticas de engenharia  
+✅ Orquestração com Apache Airflow  
+✅ Ambiente containerizado com Docker Compose  
+✅ Organização seguindo boas práticas de engenharia de software  
 
 
 📌 Repositório:
 
-➡️ Em desenvolvimento
+🚧 Em desenvolvimento
 
 
 ---
@@ -82,22 +92,41 @@ Atualmente estudo e desenvolvo projetos envolvendo:
 ## Linguagens
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,sql,js,html,css"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </p>
 
 
-## Data Engineering
+## Engenharia de Dados
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,docker"/>
-<img src="https://cdn.simpleicons.org/apacheairflow/"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
 </p>
 
 
 ## Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
 </p>
 
 
@@ -105,16 +134,18 @@ Atualmente estudo e desenvolvo projetos envolvendo:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://img.shields.io/badge/AWS-Cloud%20Concepts-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-API%20Development-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 </p>
+
 
 - Apache Spark / PySpark
 - dbt
 - Data Lakes
 - Cloud Data Platforms
-- APIs com FastAPI
-- Arquiteturas modernas de dados
+- LLMs e Agentes de IA
 
 
 ---
@@ -123,6 +154,7 @@ Atualmente estudo e desenvolvo projetos envolvendo:
 
 
 <table>
+
 <tr>
 
 <td width="50%">
@@ -134,7 +166,7 @@ Pipeline completo de Engenharia de Dados com ingestão, transformação, armazen
 </p>
 
 <p align="center">
-<b>Python • SQL • PostgreSQL • Airflow • Docker</b>
+Python • SQL • PostgreSQL • Airflow • Docker
 </p>
 
 </td>
@@ -142,14 +174,14 @@ Pipeline completo de Engenharia de Dados com ingestão, transformação, armazen
 
 <td width="50%">
 
-<h3 align="center">🚧 Próximo Projeto</h3>
+<h3 align="center">⚙️ Python Automation Lab</h3>
 
 <p align="center">
-Novo projeto explorando arquitetura moderna de dados, cloud ou inteligência artificial aplicada.
+Projetos de automação utilizando Python, APIs e processamento de arquivos.
 </p>
 
 <p align="center">
-<b>Em construção...</b>
+Python • APIs • Automation
 </p>
 
 </td>
@@ -161,14 +193,14 @@ Novo projeto explorando arquitetura moderna de dados, cloud ou inteligência art
 
 <td width="50%">
 
-<h3 align="center">🤖 AI + Data Project</h3>
+<h3 align="center">🚧 Próximo Projeto</h3>
 
 <p align="center">
-Espaço reservado para projetos envolvendo LLMs, agentes de IA e pipelines inteligentes.
+Projeto explorando arquitetura moderna de dados, cloud ou processamento distribuído.
 </p>
 
 <p align="center">
-<b>Future Project</b>
+Em construção...
 </p>
 
 </td>
@@ -176,14 +208,14 @@ Espaço reservado para projetos envolvendo LLMs, agentes de IA e pipelines intel
 
 <td width="50%">
 
-<h3 align="center">⚙️ Automation Lab</h3>
+<h3 align="center">🤖 AI + Data Project</h3>
 
 <p align="center">
-Projetos de automação utilizando Python, APIs e integração de sistemas.
+Projetos envolvendo LLMs, agentes de IA e integração com pipelines de dados.
 </p>
 
 <p align="center">
-<b>Python • APIs • Automation</b>
+Future Project
 </p>
 
 </td>
@@ -212,6 +244,7 @@ Projetos de automação utilizando Python, APIs e integração de sistemas.
 # 📈 Minha evolução
 
 
+
 Frontend Development
 ↓
 Programming Fundamentals
@@ -236,5 +269,5 @@ Busco minha primeira oportunidade como **Engenheiro de Dados Júnior**, contribu
 ---
 
 <p align="center">
-  <b>"Transformando dados em conhecimento, um pipeline por vez."</b>
+  <b>Transformando dados em conhecimento, um pipeline por vez.</b>
 </p>
