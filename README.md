@@ -10,16 +10,12 @@
   Construindo soluções de dados através de projetos práticos, automação e boas práticas de engenharia.
 </p>
 
-<p align="center">
-  <a href="https://github.com/adryan1-dev">
-    <img src="https://img.shields.io/github/followers/adryan1-dev?style=for-the-badge&logo=github&color=181717"/>
-  </a>
-  
+<p align="center">  
   <a href="https://linkedin.com/in/adryan1-dev">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="mailto:adryanpinto94@gmail.com">
+  <a href="mailto:adryan1.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
