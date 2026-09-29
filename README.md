@@ -67,6 +67,34 @@ Sistema desenvolvido para catalogação e gerenciamento de livros, permitindo or
 
 ---
 
+### 📡 Info Projekt
+
+**Site institucional para provedor de internet por fibra óptica**
+
+Site para um provedor de fibra óptica no Vale do Jequitinhonha, com planos filtrados por cidade e contato direto via WhatsApp.
+
+**Stack:**
+
+`Next.js` `React` `Vercel`
+
+🔗 **[Ver projeto](https://info-projekt.vercel.app/)**
+
+---
+
+### 🌿 Lia Valença
+
+**Projeto conceito de site para marca de estética**
+
+Experiência digital para uma marca fictícia de cuidado facial e corporal, criada para demonstrar direção de arte, narrativa de marca, animações e layout responsivo.
+
+**Stack:**
+
+`Next.js` `React` `Vercel`
+
+🔗 **[Ver projeto](https://lia-valenca-portfolio.vercel.app)**
+
+---
+
 ### 📊 DeliveryLens Analytics
 
 **Pipeline de Engenharia de Dados**
